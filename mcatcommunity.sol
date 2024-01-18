@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MztacatCommunity {
+contract ClownG {
     string public name = "ClownG";
     string public symbol = "CLG";
     uint8 public decimals = 18;
